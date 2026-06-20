@@ -1,0 +1,105 @@
+# 📘 Classes & Objects — Simple HTML Explainer
+
+A beginner-friendly, single-page static website that explains the core Object-Oriented Programming (OOP) concepts of **Classes** and **Objects** using plain language, real-life analogies, Python code examples, and illustrated diagrams.
+
+> Designed for anyone with **zero prior computer knowledge**.
+
+---
+
+## 🌐 Live Preview
+
+Open `index.html` in any browser — no server, build tools, or installation required.
+
+---
+
+## 📁 Project Structure
+
+```
+basichtml/
+├── index.html          # Main (and only) page
+└── images/
+    ├── class1.png      # Class concept diagram
+    ├── object1.png     # Object concept illustration
+    ├── object2.png
+    ├── object3.png
+    ├── object4.png
+    ├── object5.png
+    ├── both.png        # Class + Object together
+    ├── both1.png
+    ├── both2.png
+    └── both3.png
+```
+
+---
+
+## 📖 What's Covered
+
+The page is divided into three main sections:
+
+**1. What is a Class?**
+- Definition using real-life analogies (recipe, house blueprint)
+- Python code example (`class Car`)
+- Why classes are useful (reuse, organisation, modelling real things)
+
+**2. What is an Object?**
+- Definition as the "real thing" created from a class
+- Multiple analogies (actual dosa from a recipe, real house from a blueprint)
+- Python code examples (`car1 = Car()`, `Student` class with multiple instances)
+- Features of objects (independent, store real values, use class methods)
+
+**3. How Classes & Objects Work Together**
+- Side-by-side comparison: Class = Idea/Plan, Object = Real Thing
+- Visual diagrams showing the relationship
+
+**Extended sections also cover:**
+- Why we need classes and objects
+- More class/object examples (Car, Student, BankAccount, Mobile)
+- Attributes vs Methods explained simply
+- Recommended learning resources (W3Schools, GeeksForGeeks, YouTube channels, books)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer    | Technology           |
+|----------|----------------------|
+| Markup   | HTML5                |
+| Styling  | Bootstrap 5.3 (CDN)  |
+| Code font| Consolas (monospace) |
+| Images   | Local PNGs           |
+
+No JavaScript. No backend. No build step.
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vighs08/basichtml.git
+   ```
+
+2. **Open in browser**
+   ```bash
+   # Simply double-click index.html, or:
+   cd basichtml
+   open index.html        # macOS
+   start index.html       # Windows
+   xdg-open index.html    # Linux
+   ```
+
+That's it — no installations needed.
+
+---
+
+## 🧑‍🎓 Who Is This For?
+
+- Students learning OOP for the first time
+- Anyone who finds textbook definitions confusing
+- Teachers looking for a simple visual aid to explain classes and objects
+
+---
+
+## 📄 License
+
+No license specified. Created for educational purposes.
